@@ -16,4 +16,10 @@ public class Estudiante extends Persona {
     public boolean getStatus(){
         return this.status;
     }
+
+    public int getNote() {return this.note;}
+
+    public String getSex() {
+        return this.sex;
+    }
 }

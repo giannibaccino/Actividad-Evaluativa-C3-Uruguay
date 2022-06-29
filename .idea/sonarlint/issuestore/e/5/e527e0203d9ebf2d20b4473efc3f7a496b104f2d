@@ -1,0 +1,27 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Hombre" 5 times.(Ï’­”
+J
+java:S1066J"/Merge this if statement with the enclosing one.(–òÇòıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º²Í†
+@
+java:S1197"*Move the array designators [] to the type.(´è¸˜
+V
+java:S1117";Rename "subject" which hides the field declared at line 10.(Ûµì×şÿÿÿÿ
+7	java:S131""Add a default case to this switch.(İÜŒ
+\
+java:S1126%"AReplace this if-then-else statement by a single return statement.(ÄˆŞùÿÿÿÿ
+B
+java:S1125%"'Remove the unnecessary boolean literal.(ÄˆŞùÿÿÿÿ
+V
+java:S1117,";Rename "alumnos" which hides the field declared at line 12.(…äØÿÿÿÿÿ
+A
+java:S14817"&Remove this unused "f" local variable.(¢È¢çÿÿÿÿÿ
+=
+java:S1125:"'Remove the unnecessary boolean literal.(™¹Áä
+V
+java:S1126?"AReplace this if-then-else statement by a single return statement.(œû¦0
+B
+java:S1125I"'Remove the unnecessary boolean literal.(°óÃßıÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(îøÄª
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(úşĞØùÿÿÿÿ
